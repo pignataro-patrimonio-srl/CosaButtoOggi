@@ -9,3 +9,4 @@ Modificare il file WidgetService.bas alle righe 21 e 89 (eventualemnte per altri
 Modificare il file CosaButtoOggi.b4a alle righe riga 1, 20, 21 e 22
 Modificare il file main.bal dal designer di B4A
 
+Per verificare come funziona il widget, potete installare quello compilato e pubblicato sul playstore dalla Pignataro Patrimonio, a questo indirizzo: https://play.google.com/store/apps/details?id=it.pignataropatrimonio.widget.cosabutto
