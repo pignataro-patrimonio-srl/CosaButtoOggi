@@ -6,7 +6,7 @@ Realizzato con B4A (ambiente di sviluppo free) dalla Pignataro Patrimonio srl, a
 Il file "Caledariosemplificato.json" deve essere raggiungibile dall'app via web (basta pubblicarlo su un sito web).
 
 Modificare il file logo.png
-Modificare il file WidgetService.bas alle righe 21 e 89 (eventualemnte 105 per altri linguaggi o per usi diversi da quello pensato in origine)
+Modificare il file WidgetService.bas alle righe 21 e 89 (eventualemnte per altri linguaggi o per usi diversi da quello pensato in origine)
 Modificare il file CosaButtoOggi.b4a alle righe riga 1, 20, 21 e 22
 Modificare il file main.bal dal designer di B4A
 
